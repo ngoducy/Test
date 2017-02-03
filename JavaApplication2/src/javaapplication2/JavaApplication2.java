@@ -19,6 +19,7 @@ public class JavaApplication2 {
         System.out.println("ajout dans Git");
         System.out.println("Allo");
         System.out.println("Allo2");
+        System.out.println("Allo3");
     }
     
 }
