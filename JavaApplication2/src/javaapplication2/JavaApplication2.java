@@ -18,6 +18,7 @@ public class JavaApplication2 {
         // TODO code application logic here
         System.out.println("ajout dans Git");
         System.out.println("Allo");
+        System.out.println("Allo2");
     }
     
 }
